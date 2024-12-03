@@ -55,7 +55,7 @@ The **Online Classroom Management System** is a robust and user-friendly platfor
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/your-username/online-classroom-management-system.git
+    git clone https://github.com/nithinvs32/online-classroom-management-system.git
     cd online-classroom-management-system
     ```
 
